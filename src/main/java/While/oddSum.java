@@ -1,3 +1,5 @@
+package While;
+
 public class oddSum {
     public static void main (String [] args) {
         int max, r,n;

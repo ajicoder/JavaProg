@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class sortNumbers {
     public static void main (String [] args) {
         int [] nums = {4,10,3,2,15,25,1};

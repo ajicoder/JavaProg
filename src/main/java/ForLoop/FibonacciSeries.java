@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class FibonacciSeries {
     public static void main (String[] args) {
         int n1,n2,r;

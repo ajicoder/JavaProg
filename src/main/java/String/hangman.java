@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -12,7 +14,7 @@ public class hangman {
         Random rand = new Random();
         String word = words[rand.nextInt(words.length)];
 
-        String w = "hello";
+        String w = "String.hello";
         String b = word.replaceAll(".","_");
         char[] ar = word.toCharArray();
         char[] ar2 = b.toCharArray();

@@ -1,3 +1,5 @@
+package String;
+
 public class pallindromeDetector {
     public static void main (String [] args) {
         String v;

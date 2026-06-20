@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class average {
     public static void main (String[] args) {
         int num [] = {90,75,99,70,77,76,71};
@@ -6,7 +8,7 @@ public class average {
             t = t + num[i];
         }
         int a = t/num.length;
-        System.out.println(a + " Is the average");
+        System.out.println(a + " Is the ForLoop.average");
 
         if (a >= 91 && a <=100) {
             System.out.println("The grade is an A");

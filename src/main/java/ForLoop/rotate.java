@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class rotate {
     public static void main (String[] args) {
         String w;

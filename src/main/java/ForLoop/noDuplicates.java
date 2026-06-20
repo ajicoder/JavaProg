@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class noDuplicates {
     public static void main (String[] args) {
         int a [] = {-1,-5,2,5,5,100,3};

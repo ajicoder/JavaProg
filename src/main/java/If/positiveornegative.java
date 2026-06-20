@@ -1,3 +1,5 @@
+package If;
+
 public class positiveornegative {
     public static void main (String [] args) {
         int n;

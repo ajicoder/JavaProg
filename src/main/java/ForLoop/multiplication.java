@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class multiplication {
     public static void main (String [] args) {
         int f1;

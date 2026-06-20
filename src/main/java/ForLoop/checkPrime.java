@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class checkPrime {
     public static void main (String [] args) {
         int inputNo,m;

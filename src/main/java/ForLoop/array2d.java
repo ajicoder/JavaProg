@@ -1,3 +1,5 @@
+package ForLoop;
+
 public class array2d {
     public static void main () {
         int [][] a = new int[51][3];
