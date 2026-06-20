@@ -1,6 +1,6 @@
 public class array2d {
     public static void main () {
-        int a[][] = new int[51][3];
+        int [][] a = new int[51][3];
 
         for (int i = 0;i <=50;i++) {
             a[i][0] = 5;
