@@ -2,7 +2,7 @@ public class checkPrime {
     public static void main (String [] args) {
         int inputNo,m;
         boolean p;
-        inputNo = 10856493;
+        inputNo = 190;
         p = true;
         for (int x=2;x<=inputNo-1;x++) {
             m = inputNo%x;
